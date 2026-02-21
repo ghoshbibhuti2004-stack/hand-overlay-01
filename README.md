@@ -54,7 +54,7 @@ This project uses Python, MediaPipe, and OpenCV to create a real-time hand track
 ## Run the Project
 
 ```
-C:/Users/Tuba Khan/Downloads/streach/.venv/Scripts/python.exe hand_overlay.py
+ C:/Users/admin/AppData/Local/Programs/Python/Python313/python.exe
 ```
 
 - Press `Esc` to exit the webcam window.
@@ -62,4 +62,5 @@ C:/Users/Tuba Khan/Downloads/streach/.venv/Scripts/python.exe hand_overlay.py
 ## Notes
 - The overlay is designed for smoothness and accuracy, even with hand movement.
 - You can modify the overlay style in `hand_overlay.py` in the `draw_custom_overlay` function.
+
 
